@@ -1,4 +1,4 @@
-![Header](prodile.jpg)
+![Profile](profile.jpg)
 <h1 align="center">Hi, I'm Muhammad Naveed 👋</h1>
 💻 **Full-Stack Web Developer** with 7+ years of experience crafting scalable, secure, and high-performance applications.  
 I specialize in **PHP**, **MERN**, **Laravel**, **CodeIgniter**, and modern JavaScript frameworks.  
